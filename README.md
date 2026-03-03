@@ -31,9 +31,9 @@ to generate a new stylized image.
 4. Run all cells  
 
 ## 📊 Results  
-(Outputs will be added after training)
+### Stylized Output
+![Output](styled_output.jpg)
 
----
 
 ## 👩‍💻 Author  
 Meghana K B  
