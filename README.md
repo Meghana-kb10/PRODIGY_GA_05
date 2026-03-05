@@ -1,40 +1,32 @@
-# PRODIGY_GA_05  
-## Neural Style Transfer using PyTorch  
-### Generative AI Internship – Prodigy InfoTech  
+# Neural Style Transfer using PyTorch
+Generative AI Internship – Prodigy InfoTech
 
-## 📌 Project Overview  
-This project implements Neural Style Transfer using a pre-trained VGG19 model in PyTorch.
+## Project Overview
+This project implements Neural Style Transfer using a pretrained VGG19 Convolutional Neural Network.
 
 The goal is to combine:
-- Content image (structure)
-- Style image (artistic texture)
-to generate a new stylized image.
+- Content Image (structure)
+- Style Image (texture and artistic patterns)
+to generate a stylized output image.
 
-## 🧠 Concepts Covered  
-- Convolutional Neural Networks (CNNs)  
-- Feature Extraction  
-- Content Loss  
-- Style Loss  
-- Gram Matrix  
-- Optimization-based learning  
+## Concepts Used
+- Convolutional Neural Networks (CNN)
+- Feature Extraction
+- Content Loss
+- Style Loss
+- Gram Matrix
+- Optimization using Backpropagation
 
-## ⚙️ Technologies Used  
-- Python  
-- PyTorch  
-- Torchvision  
-- Google Colab  
+## Technologies Used
+- Python
+- PyTorch
+- Torchvision
+- Google Colab (GPU)
 
-## 🚀 How to Run  
-1. Open the notebook in Google Colab  
-2. Install dependencies  
-3. Upload content and style images  
-4. Run all cells  
+## Result
 
-## 📊 Results  
-### Stylized Output
-![Output](styled_output.jpg)
+![Stylized Output](styled_output.jpg)
 
-
-## 👩‍💻 Author  
+## Author
 Meghana K B  
-3rd Year CSE | Generative AI Intern
+3rd Year CSE
